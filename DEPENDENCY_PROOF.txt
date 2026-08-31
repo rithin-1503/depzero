@@ -1,0 +1,44 @@
+# DEPZERO STATIC DEPENDENCY PROOF
+
+Project: /mnt/data/depzero
+Scanner: DepZero 1.0.0
+Python: 3.13+
+Files scanned: 4
+Third-party runtime dependencies detected: 0
+
+STANDARD-LIBRARY MODULES OBSERVED
+__future__
+argparse
+ast
+contextlib
+dataclasses
+enum
+fnmatch
+hashlib
+io
+json
+os
+pathlib
+re
+shutil
+sys
+tempfile
+tomllib
+typing
+unittest
+
+MANIFEST STATUS
+No third-party runtime dependencies declared.
+
+SOURCE HASH
+SHA-256:
+f7b0dc4be628c25e5fbab3bb361349916acbc3d5b12320ad745c99ef711c936a
+
+RESULT
+PASS
+
+ZERO EXTERNAL RUNTIME DEPENDENCIES DETECTED BY DEPZERO STATIC ANALYSIS.
+
+IMPORTANT LIMITATION
+This report is based on deterministic static analysis.
+Dynamic runtime loading or dependencies not represented in scanned source may not be observable.

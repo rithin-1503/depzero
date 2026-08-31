@@ -1,0 +1,8 @@
+{
+  "exclude": [
+    "examples/python_with_dependencies/*",
+    "examples/javascript_project/*"
+  ],
+  "ignore_dependencies": [],
+  "languages": ["python", "javascript", "typescript"]
+}
